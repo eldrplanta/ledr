@@ -1,20 +1,20 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldroplanta.com" resolutions="1x" timestamp="1597747754911">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldroplanta.com" resolutions="1x" timestamp="1597748507347">
   <folder name="assets">
     <file name="video.mp4" crc="218726962" seo="true" mt="1597665457000"/>
     <file name="picture.jpg" crc="4177644065" seo="true" mt="1597747730000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_dr-planta.css" crc="3914094614" ref="index:contacto:tienda:información"/>
-    <file name="index.css" crc="91670914" ref="index"/>
-    <file name="contacto.css" crc="91670914" ref="contacto"/>
-    <file name="tienda.css" crc="91670914" ref="tienda"/>
-    <file name="informaci_n.css" crc="91670914" ref="información"/>
+    <file name="master_dr-planta.css" crc="4106284207" ref="index:contacto:tienda:información"/>
+    <file name="index.css" crc="427279480" ref="index"/>
+    <file name="contacto.css" crc="427279480" ref="contacto"/>
+    <file name="tienda.css" crc="427279480" ref="tienda"/>
+    <file name="informaci_n.css" crc="427279480" ref="información"/>
     <file name="nomq_preview_master_dr-planta.css" crc="3989605460" ref="index:información:tienda:contacto"/>
-    <file name="nomq_index.css" crc="471157707" ref="index"/>
-    <file name="nomq_informaci_n.css" crc="471157707" ref="información"/>
-    <file name="nomq_tienda.css" crc="471157707" ref="tienda"/>
-    <file name="nomq_contacto.css" crc="471157707" ref="contacto"/>
+    <file name="nomq_index.css" crc="3854024879" ref="index"/>
+    <file name="nomq_informaci_n.css" crc="3854024879" ref="información"/>
+    <file name="nomq_tienda.css" crc="3854024879" ref="tienda"/>
+    <file name="nomq_contacto.css" crc="3854024879" ref="contacto"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tienda:información:contacto"/>
@@ -53,8 +53,8 @@
     <file name="u294-4.png" crc="70651494" ref="index:tienda:información:contacto"/>
     <file name="blank.gif" crc="4208392903" ref="index:tienda:información:contacto"/>
   </folder>
-  <file name="index.html" crc="4041588042" seo="true" mt="1597747154563" redirect="true"/>
-  <file name="tienda.html" crc="259319605" seo="true" mt="1597747154563" redirect="true"/>
-  <file name="información.html" crc="472782959" seo="true" mt="1597747154563" redirect="true"/>
-  <file name="contacto.html" crc="4092708224" seo="true" mt="1597747154563" redirect="true"/>
+  <file name="index.html" crc="3991551676" seo="true" mt="1597748501072" redirect="true"/>
+  <file name="tienda.html" crc="3962093809" seo="true" mt="1597748501072" redirect="true"/>
+  <file name="información.html" crc="4030066967" seo="true" mt="1597748501072" redirect="true"/>
+  <file name="contacto.html" crc="3760512341" seo="true" mt="1597748501072" redirect="true"/>
 </manifest>
