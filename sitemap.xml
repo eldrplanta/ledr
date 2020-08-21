@@ -7,14 +7,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://eldroplanta.com/assets/picture.jpg</loc>
+    <lastmod>2020-08-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://eldroplanta.com/assets/video.mp4</loc>
     <lastmod>2020-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://eldroplanta.com/assets/picture.jpg</loc>
-    <lastmod>2020-08-18</lastmod>
+    <loc>http://eldroplanta.com/assets/mobile.jpg</loc>
+    <lastmod>2020-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://eldroplanta.com/assets/bags2.jpg</loc>
+    <lastmod>2020-08-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

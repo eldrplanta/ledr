@@ -1,14 +1,16 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldroplanta.com" resolutions="1x" timestamp="1597998165010">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldroplanta.com" resolutions="1x" timestamp="1598007999453">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_dr-planta.css" crc="183579624" ref="index"/>
+    <file name="nomq_preview_master_dr-planta.css" crc="3925777349" ref="index"/>
+    <file name="index.css" crc="55448408" ref="index"/>
+    <file name="nomq_index.css" crc="357049858" ref="index"/>
+  </folder>
   <folder name="assets">
     <file name="video.mp4" crc="218726962" seo="true" mt="1597665457000"/>
     <file name="picture.jpg" crc="4177644065" seo="true" mt="1597747730000"/>
-  </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_dr-planta.css" crc="527181652" ref="index"/>
-    <file name="index.css" crc="4279307497" ref="index"/>
-    <file name="nomq_preview_master_dr-planta.css" crc="3989605460" ref="index"/>
-    <file name="nomq_index.css" crc="4084058741" ref="index"/>
+    <file name="bags2.jpg" crc="26933035" seo="true" mt="1597832939000"/>
+    <file name="mobile.jpg" crc="389111850" seo="true" mt="1598007921000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -17,11 +19,12 @@
     <file name="museconfig.js" crc="380897831" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
     <file name="dr-planta-favicon.ico" crc="502473294" ref="index"/>
+    <file name="dr planta-buttonu116-fr.png" crc="369803924" ref="index"/>
     <file name="dr planta.png" crc="267299635" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -30,7 +33,22 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="dr planta-buttonu116-fr.png" crc="369803924" ref="index"/>
+    <file name="u4759.png" crc="4100584485" ref="index"/>
+    <file name="u4759-r.png" crc="3844988432" ref="index"/>
+    <file name="u4770.png" crc="383688419" ref="index"/>
+    <file name="u4770-r.png" crc="4148259085" ref="index"/>
+    <file name="u4791.png" crc="4162036052" ref="index"/>
+    <file name="u4791-r.png" crc="132600020" ref="index"/>
+    <file name="u4812.png" crc="86019727" ref="index"/>
+    <file name="u4812-r.png" crc="3973758819" ref="index"/>
+    <file name="u4833.png" crc="322361252" ref="index"/>
+    <file name="u4833-r.png" crc="3917759385" ref="index"/>
+    <file name="u4834.png" crc="296571329" ref="index"/>
+    <file name="u4834-r.png" crc="3760839545" ref="index"/>
+    <file name="u4835.png" crc="3795902445" ref="index"/>
+    <file name="u4835-r.png" crc="4235112229" ref="index"/>
+    <file name="u4836.png" crc="317773269" ref="index"/>
+    <file name="u4836-r.png" crc="74565262" ref="index"/>
   </folder>
-  <file name="index.html" crc="29026434" seo="true" mt="1597998155237" redirect="true"/>
+  <file name="index.html" crc="219597829" seo="true" mt="1598007987605" redirect="true"/>
 </manifest>
