@@ -1,32 +1,24 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldroplanta.com" resolutions="1x" timestamp="1597751004779">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldroplanta.com" resolutions="1x" timestamp="1597997689040">
   <folder name="assets">
     <file name="video.mp4" crc="218726962" seo="true" mt="1597665457000"/>
     <file name="picture.jpg" crc="4177644065" seo="true" mt="1597747730000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_dr-planta.css" crc="4021622602" ref="index:contacto:tienda:información"/>
-    <file name="index.css" crc="3829797621" ref="index"/>
-    <file name="contacto.css" crc="4191873250" ref="contacto"/>
-    <file name="tienda.css" crc="4191873250" ref="tienda"/>
-    <file name="informaci_n.css" crc="3829797621" ref="información"/>
-    <file name="nomq_preview_master_dr-planta.css" crc="3989605460" ref="index:información:tienda:contacto"/>
-    <file name="nomq_index.css" crc="3956345240" ref="index"/>
-    <file name="nomq_informaci_n.css" crc="3956345240" ref="información"/>
-    <file name="nomq_tienda.css" crc="387216236" ref="tienda"/>
-    <file name="nomq_contacto.css" crc="387216236" ref="contacto"/>
+    <file name="master_dr-planta.css" crc="3985525064" ref="index"/>
+    <file name="index.css" crc="443125662" ref="index"/>
+    <file name="nomq_preview_master_dr-planta.css" crc="3989605460" ref="index"/>
+    <file name="nomq_index.css" crc="3766920005" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tienda:información:contacto"/>
-    <file name="museutils.js" crc="3803043152" ref="index:tienda:información:contacto"/>
-    <file name="whatinput.js" crc="86476730" ref="index:tienda:información:contacto"/>
-    <file name="museconfig.js" crc="380897831" ref="index:tienda:información:contacto"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:tienda:información:contacto"/>
-    <file name="require.js" crc="4157109226" ref="index:tienda:información:contacto"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:tienda:información:contacto"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:tienda:información:contacto"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:tienda:información:contacto"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
   </folder>
   <folder name="images">
     <file name="dr-planta-favicon.ico" crc="502473294" ref="index"/>
@@ -36,26 +28,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="u178-4.png" crc="4063684206" ref="index:tienda:información:contacto"/>
-    <file name="u260-4.png" crc="4137234138" ref="index:tienda:información:contacto"/>
-    <file name="u228-4.png" crc="4264497375" ref="index:tienda:información:contacto"/>
-    <file name="u294-4.png" crc="70651494" ref="index:tienda:información:contacto"/>
-    <file name="blank.gif" crc="4208392903" ref="index:tienda:información:contacto"/>
-    <file name="u2696-4.png" crc="39878180" ref="index:tienda:información:contacto"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dr planta-buttonu116-fr.png" crc="157156422" ref="index"/>
   </folder>
-  <file name="index.html" crc="115382133" seo="true" mt="1597750983471" redirect="true"/>
-  <file name="tienda.html" crc="4093115575" seo="true" mt="1597750983471" redirect="true"/>
-  <file name="información.html" crc="4004186549" seo="true" mt="1597750983471" redirect="true"/>
-  <file name="contacto.html" crc="3993890919" seo="true" mt="1597750983471" redirect="true"/>
+  <file name="index.html" crc="3819145592" seo="true" mt="1597997674869" redirect="true"/>
 </manifest>
