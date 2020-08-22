@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldroplanta.com" resolutions="1x" timestamp="1598086067481">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldroplanta.com" resolutions="1x" timestamp="1598086213579">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_dr-planta.css" crc="427366559" ref="index"/>
     <file name="nomq_preview_master_dr-planta.css" crc="3773295469" ref="index"/>
-    <file name="index.css" crc="3812596229" ref="index"/>
+    <file name="index.css" crc="4168578662" ref="index"/>
     <file name="nomq_index.css" crc="357049858" ref="index"/>
   </folder>
   <folder name="assets">
@@ -50,5 +50,5 @@
     <file name="u4836.png" crc="317773269" ref="index"/>
     <file name="u4836-r.png" crc="74565262" ref="index"/>
   </folder>
-  <file name="index.html" crc="456125568" seo="true" mt="1598086059382" redirect="true"/>
+  <file name="index.html" crc="96634550" seo="true" mt="1598086207293" redirect="true"/>
 </manifest>
