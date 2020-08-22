@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldroplanta.com" resolutions="1x" timestamp="1598087429256">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldroplanta.com" resolutions="1x" timestamp="1598087581238">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_dr-planta.css" crc="119741828" ref="index"/>
-    <file name="nomq_preview_master_dr-planta.css" crc="3821293815" ref="index"/>
-    <file name="index.css" crc="3880762728" ref="index"/>
+    <file name="master_dr-planta.css" crc="3969401368" ref="index"/>
+    <file name="nomq_preview_master_dr-planta.css" crc="3776671961" ref="index"/>
+    <file name="index.css" crc="3881343276" ref="index"/>
     <file name="nomq_index.css" crc="4278896019" ref="index"/>
   </folder>
   <folder name="assets">
@@ -49,5 +49,5 @@
     <file name="u4836.png" crc="317773269" ref="index"/>
     <file name="u4836-r.png" crc="74565262" ref="index"/>
   </folder>
-  <file name="index.html" crc="3766265237" seo="true" mt="1598087420256" redirect="true"/>
+  <file name="index.html" crc="3929982789" seo="true" mt="1598087553320" redirect="true"/>
 </manifest>
