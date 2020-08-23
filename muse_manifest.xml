@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldrplanta.com" resolutions="1x" timestamp="1598181116954">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldrplanta.com" resolutions="1x" timestamp="1598182134947">
   <folder name="css">
     <file name="site_global.css" crc="515999165"/>
     <file name="master_dr-planta.css" crc="4112770975" ref="index"/>
@@ -7,8 +7,8 @@
     <file name="nomq_preview_master_dr-planta-store.css" crc="3824530138" ref="tienda"/>
     <file name="tienda.css" crc="49125559" ref="tienda"/>
     <file name="nomq_tienda.css" crc="234157474" ref="tienda"/>
-    <file name="index.css" crc="4104759244" ref="index"/>
-    <file name="nomq_index.css" crc="3812116926" ref="index"/>
+    <file name="index.css" crc="32590319" ref="index"/>
+    <file name="nomq_index.css" crc="400538076" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
@@ -16,8 +16,7 @@
     <file name="copperplategothic-light.svg" crc="3879260927"/>
   </folder>
   <folder name="assets">
-    <file name="video.mp4" crc="41756709" seo="true" mt="1584225316000"/>
-    <file name="video2.mp4" crc="218726962" seo="true" mt="1597665457000"/>
+    <file name="video.mp4" crc="218726962" seo="true" mt="1597665457000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tienda"/>
@@ -62,9 +61,6 @@
       <caption webpage="tienda" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:tienda"/>
-    <file name="bags266x178.jpg" crc="3793184146" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="portada.jpg" crc="3832604692" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -90,7 +86,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u8453-9.png" crc="4250925501" ref="index"/>
+    <file name="u8453-9.png" crc="77494409" ref="index"/>
     <file name="menu psd-u1616.png" crc="4083729933" ref="index"/>
     <file name="menu psd-u1616-r.png" crc="4171796092" ref="index"/>
     <file name="menu psd-u1616-m.png" crc="3916725975" ref="index"/>
@@ -107,9 +103,6 @@
     <file name="bags.jpg" crc="73710677" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bags204x136.jpg" crc="280333641" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="portada-u63136-fr.jpg" crc="3832097073" ref="index"/>
     <file name="u7963-42.png" crc="332443498" ref="index"/>
     <file name="u8044-42.png" crc="3963377077" ref="index"/>
@@ -122,7 +115,7 @@
     <file name="u4386-42.png" crc="479564809" ref="index"/>
     <file name="u5749-42.png" crc="378362809" ref="index"/>
     <file name="bags-u62550-fr.jpg" crc="289923557" ref="index"/>
-    <file name="u8453-92.png" crc="48021590" ref="index"/>
+    <file name="u8453-92.png" crc="53228911" ref="index"/>
     <file name="menu psd-u16162.png" crc="343700370" ref="index"/>
     <file name="menu psd-u1616-r2.png" crc="3995641246" ref="index"/>
     <file name="menu psd-u1616-m2.png" crc="302775290" ref="index"/>
@@ -136,9 +129,6 @@
     <file name="menu psd-u18792.png" crc="3874918604" ref="index"/>
     <file name="menu psd-u1879-r2.png" crc="4011417522" ref="index"/>
     <file name="menu psd-u1879-m2.png" crc="255500193" ref="index"/>
-    <file name="bags113x75.jpg" crc="3898540169" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="portada-u63136-fr2.jpg" crc="224079558" ref="index"/>
     <file name="u7963-43.png" crc="3998889720" ref="index"/>
     <file name="u8044-43.png" crc="37157095" ref="index"/>
@@ -151,7 +141,7 @@
     <file name="u4386-43.png" crc="125120492" ref="index"/>
     <file name="u5749-43.png" crc="3777048207" ref="index"/>
     <file name="bags-u62550-fr2.jpg" crc="4268872791" ref="index"/>
-    <file name="u8453-93.png" crc="4293571124" ref="index"/>
+    <file name="u8453-93.png" crc="4109664157" ref="index"/>
     <file name="menu psd-u16163.png" crc="4054958286" ref="index"/>
     <file name="menu psd-u1616-r3.png" crc="4216843875" ref="index"/>
     <file name="menu psd-u1616-m3.png" crc="232107029" ref="index"/>
@@ -165,9 +155,6 @@
     <file name="menu psd-u18793.png" crc="3963410612" ref="index"/>
     <file name="menu psd-u1879-r3.png" crc="3788990185" ref="index"/>
     <file name="menu psd-u1879-m3.png" crc="4285831289" ref="index"/>
-    <file name="bags141x94.jpg" crc="307520014" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="portada-u63136-fr3.jpg" crc="180133398" ref="index"/>
     <file name="u7963-44.png" crc="62073836" ref="index"/>
     <file name="u8044-44.png" crc="87002971" ref="index"/>
@@ -180,7 +167,7 @@
     <file name="u4386-44.png" crc="4042647476" ref="index"/>
     <file name="u5749-44.png" crc="523002103" ref="index"/>
     <file name="bags-u62550-fr3.jpg" crc="229490564" ref="index"/>
-    <file name="u8453-94.png" crc="3843759915" ref="index"/>
+    <file name="u8453-94.png" crc="3791846882" ref="index"/>
     <file name="menu psd-u16164.png" crc="83457940" ref="index"/>
     <file name="menu psd-u1616-r4.png" crc="4221611785" ref="index"/>
     <file name="menu psd-u1616-m4.png" crc="3912526481" ref="index"/>
@@ -206,7 +193,23 @@
     <file name="menu psd-u62421.png" crc="4097889339" ref="tienda"/>
     <file name="menu psd-u62421-r.png" crc="4170219262" ref="tienda"/>
     <file name="menu psd-u62421-m.png" crc="467341686" ref="tienda"/>
+    <file name="shop.png" crc="65063952" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bags732x488.jpg" crc="3812184438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bags534x356.jpg" crc="4234703825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shop-u63365-fr.png" crc="151496926" ref="index"/>
+    <file name="bags218x146.jpg" crc="4148347369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bags221x148.jpg" crc="3832099453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="229791586" seo="true" mt="1598181110590" redirect="true"/>
+  <file name="index.html" crc="526353007" seo="true" mt="1598182013527" redirect="true"/>
   <file name="tienda.html" crc="462894873" seo="true" mt="1598178795845" redirect="true"/>
 </manifest>
