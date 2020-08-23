@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldrplanta.com" resolutions="1x" timestamp="1598182134947">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldrplanta.com" resolutions="1x" timestamp="1598182260154">
   <folder name="css">
     <file name="site_global.css" crc="515999165"/>
     <file name="master_dr-planta.css" crc="4112770975" ref="index"/>
@@ -7,8 +7,8 @@
     <file name="nomq_preview_master_dr-planta-store.css" crc="3824530138" ref="tienda"/>
     <file name="tienda.css" crc="49125559" ref="tienda"/>
     <file name="nomq_tienda.css" crc="234157474" ref="tienda"/>
-    <file name="index.css" crc="32590319" ref="index"/>
-    <file name="nomq_index.css" crc="400538076" ref="index"/>
+    <file name="index.css" crc="4028822270" ref="index"/>
+    <file name="nomq_index.css" crc="4209136370" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
@@ -210,6 +210,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="526353007" seo="true" mt="1598182013527" redirect="true"/>
+  <file name="index.html" crc="109465218" seo="true" mt="1598182241521" redirect="true"/>
   <file name="tienda.html" crc="462894873" seo="true" mt="1598178795845" redirect="true"/>
 </manifest>
