@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldrplanta.com" resolutions="1x" timestamp="1598184934115">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eldrplanta.com" resolutions="1x" timestamp="1598229568077">
   <folder name="css">
-    <file name="site_global.css" crc="515999165"/>
-    <file name="master_dr-planta.css" crc="4112770975" ref="index"/>
+    <file name="site_global.css" crc="4148094348"/>
+    <file name="master_dr-planta.css" crc="214787155" ref="index"/>
     <file name="nomq_preview_master_dr-planta.css" crc="3824530138" ref="index"/>
     <file name="master_dr-planta-store.css" crc="3089236" ref="tienda"/>
     <file name="nomq_preview_master_dr-planta-store.css" crc="3824530138" ref="tienda"/>
     <file name="tienda.css" crc="49125559" ref="tienda"/>
     <file name="nomq_tienda.css" crc="234157474" ref="tienda"/>
-    <file name="index.css" crc="400942982" ref="index"/>
-    <file name="nomq_index.css" crc="252412671" ref="index"/>
+    <file name="index.css" crc="341249871" ref="index"/>
+    <file name="nomq_index.css" crc="4125642043" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
@@ -17,7 +17,6 @@
   </folder>
   <folder name="assets">
     <file name="video.mp4" crc="218726962" seo="true" mt="1597665457000"/>
-    <file name="shutterstock_84120028.jpg" crc="314993694" seo="true" mt="1327654083000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tienda"/>
@@ -159,6 +158,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4172457796" seo="true" mt="1598184912811" redirect="true"/>
+  <file name="index.html" crc="52995165" seo="true" mt="1598229564824" redirect="true"/>
   <file name="tienda.html" crc="462894873" seo="true" mt="1598178795845" redirect="true"/>
 </manifest>
