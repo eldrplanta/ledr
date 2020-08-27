@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eldrplanta.com" resolutions="1x" timestamp="1598532678461">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eldrplanta.com" resolutions="1x" timestamp="1598532805855">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4164015288" ref="index"/>
+    <file name="index.css" crc="3518258" ref="index"/>
     <file name="master_dr-planta.css" crc="3763325362" ref="index:info:tienda"/>
     <file name="nomq_preview_master_dr-planta.css" crc="4049769212" ref="index:info:tienda"/>
     <file name="nomq_index.css" crc="4195916264" ref="index"/>
@@ -147,7 +147,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="514210950" seo="true" mt="1598532667691" redirect="true"/>
-  <file name="info.html" crc="3945393578" seo="true" mt="1598532667691" redirect="true"/>
-  <file name="tienda.html" crc="96449998" seo="true" mt="1598532667691" redirect="true"/>
+  <file name="index.html" crc="4213880883" seo="true" mt="1598532783244" redirect="true"/>
+  <file name="info.html" crc="4037122429" seo="true" mt="1598532783244" redirect="true"/>
+  <file name="tienda.html" crc="190263429" seo="true" mt="1598532783244" redirect="true"/>
 </manifest>
