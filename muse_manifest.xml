@@ -1,14 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eldrplanta.com" resolutions="1x" timestamp="1598532064697">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eldrplanta.com" resolutions="1x" timestamp="1598532538300">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="332054852" ref="index"/>
-    <file name="master_dr-planta.css" crc="113253090" ref="index:info:tienda"/>
+    <file name="index.css" crc="4164015288" ref="index"/>
+    <file name="master_dr-planta.css" crc="3763325362" ref="index:info:tienda"/>
     <file name="nomq_preview_master_dr-planta.css" crc="4049769212" ref="index:info:tienda"/>
-    <file name="nomq_index.css" crc="3894007847" ref="index"/>
-    <file name="info.css" crc="4256110871" ref="info"/>
-    <file name="nomq_info.css" crc="3760490877" ref="info"/>
-    <file name="tienda.css" crc="4256110871" ref="tienda"/>
-    <file name="nomq_tienda.css" crc="3760490877" ref="tienda"/>
+    <file name="nomq_index.css" crc="4195916264" ref="index"/>
+    <file name="info.css" crc="4144780497" ref="info"/>
+    <file name="nomq_info.css" crc="9608212" ref="info"/>
+    <file name="tienda.css" crc="4144780497" ref="tienda"/>
+    <file name="nomq_tienda.css" crc="9608212" ref="tienda"/>
   </folder>
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
@@ -147,7 +147,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="358725558" seo="true" mt="1598532051162" redirect="true"/>
-  <file name="info.html" crc="3775642157" seo="true" mt="1598532020812" redirect="true"/>
-  <file name="tienda.html" crc="103187754" seo="true" mt="1598532020812" redirect="true"/>
+  <file name="index.html" crc="108791872" seo="true" mt="1598532525522" redirect="true"/>
+  <file name="info.html" crc="101937636" seo="true" mt="1598532525522" redirect="true"/>
+  <file name="tienda.html" crc="303898081" seo="true" mt="1598532525522" redirect="true"/>
 </manifest>
