@@ -1,10 +1,14 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eldrplanta.com" resolutions="1x" timestamp="1598444170950">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eldrplanta.com" resolutions="1x" timestamp="1598532064697">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="47215706" ref="index"/>
-    <file name="master_dr-planta.css" crc="3906922868" ref="index"/>
-    <file name="nomq_preview_master_dr-planta.css" crc="4049769212" ref="index"/>
-    <file name="nomq_index.css" crc="3976699318" ref="index"/>
+    <file name="index.css" crc="332054852" ref="index"/>
+    <file name="master_dr-planta.css" crc="113253090" ref="index:info:tienda"/>
+    <file name="nomq_preview_master_dr-planta.css" crc="4049769212" ref="index:info:tienda"/>
+    <file name="nomq_index.css" crc="3894007847" ref="index"/>
+    <file name="info.css" crc="4256110871" ref="info"/>
+    <file name="nomq_info.css" crc="3760490877" ref="info"/>
+    <file name="tienda.css" crc="4256110871" ref="tienda"/>
+    <file name="nomq_tienda.css" crc="3760490877" ref="tienda"/>
   </folder>
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
@@ -12,17 +16,17 @@
     <file name="copperplategothic-light.svg" crc="3879260927"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:info:tienda"/>
+    <file name="museutils.js" crc="3803043152" ref="index:info:tienda"/>
+    <file name="whatinput.js" crc="86476730" ref="index:info:tienda"/>
+    <file name="museconfig.js" crc="380897831" ref="index:info:tienda"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:info"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:info:tienda"/>
+    <file name="require.js" crc="4157109226" ref="index:info:tienda"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:info:tienda"/>
   </folder>
   <folder name="images">
-    <file name="dr planta.png" crc="365168971" ref="index">
+    <file name="dr planta.png" crc="365168971" ref="index:info">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -31,55 +35,119 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
     </file>
     <file name="dr-planta-favicon.ico" crc="502473294" ref="index"/>
     <file name="shutterstock_93519001.jpg" crc="419787117" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fb.png" crc="127358191" ref="index">
+    <file name="fb.png" crc="127358191" ref="index:info">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
     </file>
-    <file name="twitter.png" crc="281843167" ref="index">
+    <file name="twitter.png" crc="281843167" ref="index:info">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
     </file>
-    <file name="ig icon.png" crc="3880152803" ref="index">
+    <file name="ig icon.png" crc="3880152803" ref="index:info">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
     </file>
-    <file name="yt.png" crc="4197502951" ref="index">
+    <file name="yt.png" crc="4197502951" ref="index:info">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
     </file>
-    <file name="tiktok.png" crc="231183980" ref="index">
+    <file name="tiktok.png" crc="231183980" ref="index:info">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
     </file>
     <file name="shoptransparent.png" crc="375624830" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="shop.png" crc="255844822" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="shutterstock_93519001-u201-fr.jpg" crc="3824441797" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:info:tienda"/>
+    <file name="8eba31e0.jpg" crc="4274804093" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="calm.png" crc="4162432598" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shoptransparent-u1747-fr.png" crc="448993265" ref="index"/>
+    <file name="phone.png" crc="14831691" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="focus.png" crc="4043096340" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info.png" crc="116297094" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nox.png" crc="418440054" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brief.png" crc="373579287" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="balsamo.png" crc="347789771" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="check.png" crc="4180100304" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="76462720.jpg" crc="4169556663" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="411819588" seo="true" mt="1598444169065" redirect="true"/>
+  <file name="index.html" crc="358725558" seo="true" mt="1598532051162" redirect="true"/>
+  <file name="info.html" crc="3775642157" seo="true" mt="1598532020812" redirect="true"/>
+  <file name="tienda.html" crc="103187754" seo="true" mt="1598532020812" redirect="true"/>
 </manifest>
