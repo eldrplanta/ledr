@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eldrplanta.com" resolutions="1x" timestamp="1598533654517">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eldrplanta.com" resolutions="1x" timestamp="1598671929497">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="115709602" ref="index"/>
-    <file name="master_dr-planta.css" crc="520336847" ref="index:info:tienda"/>
+    <file name="index.css" crc="3954640181" ref="index"/>
+    <file name="master_dr-planta.css" crc="272067031" ref="index:info:tienda"/>
     <file name="nomq_preview_master_dr-planta.css" crc="4049769212" ref="index:info:tienda"/>
-    <file name="nomq_index.css" crc="366120656" ref="index"/>
+    <file name="nomq_index.css" crc="194832813" ref="index"/>
     <file name="info.css" crc="4270874501" ref="info"/>
     <file name="nomq_info.css" crc="4077131148" ref="info"/>
     <file name="tienda.css" crc="4270874501" ref="tienda"/>
@@ -147,7 +147,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="173987977" seo="true" mt="1598533617366" redirect="true"/>
+  <file name="index.html" crc="434115167" seo="true" mt="1598671901203" redirect="true"/>
   <file name="info.html" crc="4259723277" seo="true" mt="1598533617366" redirect="true"/>
   <file name="tienda.html" crc="3762158463" seo="true" mt="1598533617366" redirect="true"/>
 </manifest>
