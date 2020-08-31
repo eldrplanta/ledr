@@ -1,12 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eldrplanta.com" resolutions="1x" timestamp="1598779789450">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://eldrplanta.com" resolutions="1x" timestamp="1598872853903">
+  <folder name="assets">
+    <file name="boton-comprar.png" crc="143336801" seo="true" mt="1511191049000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="129247689" ref="index"/>
-    <file name="master_dr-planta.css" crc="414236014" ref="index:tienda"/>
+    <file name="index.css" crc="411611062" ref="index"/>
+    <file name="master_dr-planta.css" crc="175883199" ref="index:tienda"/>
     <file name="nomq_preview_master_dr-planta.css" crc="4049769212" ref="index:tienda"/>
-    <file name="nomq_index.css" crc="3779803188" ref="index"/>
-    <file name="tienda.css" crc="460914085" ref="tienda"/>
-    <file name="nomq_tienda.css" crc="3938784288" ref="tienda"/>
+    <file name="nomq_index.css" crc="377929783" ref="index"/>
+    <file name="tienda.css" crc="471586234" ref="tienda"/>
+    <file name="nomq_tienda.css" crc="319675516" ref="tienda"/>
   </folder>
   <folder name="fonts">
     <file name="copperplategothic-light.woff" crc="3830302447"/>
@@ -40,7 +43,7 @@
     <file name="shutterstock_93519001.jpg" crc="419787117" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="fb.png" crc="127358191" ref="index:tienda">
+    <file name="fb.png" crc="4270932135" ref="index:tienda">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -48,7 +51,7 @@
       <caption webpage="info" alt=""/>
       <caption webpage="tienda" alt=""/>
     </file>
-    <file name="twitter.png" crc="281843167" ref="index:tienda">
+    <file name="twitter.png" crc="336600176" ref="index:tienda">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -56,7 +59,7 @@
       <caption webpage="info" alt=""/>
       <caption webpage="tienda" alt=""/>
     </file>
-    <file name="ig icon.png" crc="3880152803" ref="index:tienda">
+    <file name="ig icon.png" crc="3960174601" ref="index:tienda">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -64,7 +67,7 @@
       <caption webpage="info" alt=""/>
       <caption webpage="tienda" alt=""/>
     </file>
-    <file name="yt.png" crc="4197502951" ref="index:tienda">
+    <file name="yt.png" crc="8228158" ref="index:tienda">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -72,7 +75,7 @@
       <caption webpage="info" alt=""/>
       <caption webpage="tienda" alt=""/>
     </file>
-    <file name="tiktok.png" crc="231183980" ref="index:tienda">
+    <file name="tiktok.png" crc="4149722321" ref="index:tienda">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -101,7 +104,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="shoptransparent-u1747-fr.png" crc="448993265" ref="index"/>
     <file name="phone.png" crc="14831691" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -151,6 +153,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="144349396" seo="true" mt="1598779749196" redirect="true"/>
-  <file name="tienda.html" crc="4221723657" seo="true" mt="1598779749196" redirect="true"/>
+  <file name="index.html" crc="473634994" seo="true" mt="1598872838609" redirect="true"/>
+  <file name="tienda.html" crc="426259149" seo="true" mt="1598869318246" redirect="true"/>
 </manifest>
